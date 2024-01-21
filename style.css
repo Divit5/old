@@ -1,0 +1,12 @@
+body
+{
+   background-size: cover;
+   background-position: center;
+}
+
+p {
+    font-size: 20px;
+    background-color: white;
+    text-align: center;
+    color: black;
+}
